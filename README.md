@@ -1,6 +1,7 @@
 # Nuxt Postgres & PostgREST template!
 
 Full stack application template with the best DX and performance
+Template with Nuxt, Postgres and PostgREST
 
 ### Tech stack:
 - Docker-compose 🐙
